@@ -1,5 +1,6 @@
 print("Hello, World!")
 
-print("World is Fantastic")
+print("World is Awesome")
+
 
 
